@@ -1,0 +1,10 @@
+{
+  "name": "bin-sample",
+  "version": "0.0.0",
+  "bin": {
+    "bin-sample": "bin/bin",
+    "bin-sample-js": "bin-js/bin.js",
+    "bin-sample-cjs": "bin-cjs/bin.cjs",
+    "bin-sample-mjs": "bin-mjs/bin.mjs"
+  }
+}

@@ -1,2 +1,3 @@
 # bin-sample
-npm sample module with different binary extensions
+
+Prints `process.argv` with executables with different extensions.
